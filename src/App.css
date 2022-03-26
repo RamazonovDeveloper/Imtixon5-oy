@@ -1,6 +1,11 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background: linear-gradient(270deg, #000000 -2.92%, rgba(0, 0, 0, 0.74) 100%);
+  box-sizing: border-box;
+  width: 100vw;
+  overflow-x: hidden;
 }
+
 
 .App-logo {
   height: 40vmin;
